@@ -18,6 +18,6 @@ Before the Course Begins (Prework):
 We use Slack to facilitate communication. Join the Slack Channel!
 Your Metis Live Online session will take place via Zoom.
 The recordings for the class will be uploaded within 24 hours to the Google Drive folder.
-Pre-work: Please install and verify the [installation of Anaconda] (https://www.anaconda.com/products/individual#macos), for Python 3, by running a "Hello World" sample code before the first day of class.
+Pre-work: Please install and verify the [installation of Anaconda] (https://www.anaconda.com/products/individual), for Python 3, by running a "Hello World" sample code before the first day of class.
 The file titled "Lecture_0_Part1.html" is an HTML page that you can open in your browser without any additional software. This document will go through all the necessary steps of downloading Anaconda and verifying that it has been downloaded correctly.
 The second file titled "Lecture_0_Part2.ipynb" is a Jupyter Notebook file that you should only open AFTER following the instructions in the file above, otherwise you will not know what to do with this file.
