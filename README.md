@@ -1,8 +1,8 @@
 Metis Live Online Beginner Python and Math for Data Science
 
-Course materials for Metis' Live Online Beginner Python and Math for Data Science
+Course materials for [Metis' Live Online Beginner Python and Math for Data Science](https://www.thisismetis.com/courses/beginner-python-and-math-for-data-science)
 
-Instructor: [Samiyeh Mahmoudian](https://www.linkedin.com/in/samiyehmahmoudian/) Teaching Assistant: Katherine Bell
+Instructor: [Samiyeh Mahmoudian](https://www.linkedin.com/in/samiyehmahmoudian/) Teaching Assistant: [Katherine Bell](https://www.linkedin.com/in/kathmbell/)
 
 Dates and Times: May 4 - June 15. Classes are held on Monday and Thursday (6:30pm - 9:30pm PST) There will be no class on Memorial Day (May 25, 2020) 
 
