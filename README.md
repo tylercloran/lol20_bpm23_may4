@@ -1,5 +1,5 @@
 Metis Live Online Beginner Python and Math for Data Science
-Course materials for Metis' Live Online Beginner Python and Math for Data Science
+Course materials for #Metis' Live Online Beginner Python and Math for Data Science
 
 Instructor: Samiyeh Mahmoudian Teaching Assistant: Katherine Bell
 
